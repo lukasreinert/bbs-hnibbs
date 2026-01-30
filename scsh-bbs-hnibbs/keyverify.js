@@ -1,3 +1,10 @@
+/**
+ * SmartCard-HSM Script
+ *
+ * Inspired by example scripts from CardContact Software & System Consulting
+ * (Andreas Schwier, www.cardcontact.de), but fully implemented by [Your Name].
+ */
+
 var CVC = require("scsh/eac/CVC").CVC;
 
 var FileInputStream = java.io.FileInputStream;

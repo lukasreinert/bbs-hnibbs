@@ -72,3 +72,12 @@ MESSAGE_FILE="message.bin"
 # Name of the binary signature file
 SIGNATURE_FILE="signature.bin"
 ```
+
+---
+
+## Attribution
+
+The scripts `scsh-bbs-hnibbs/ec.js` and `scsh-bbs-hnibbs/keyverify.js`
+are based on example SmartCard-HSM scripts by CardContact Software
+& System Consulting (Andreas Schwier, [www.cardcontact.de](https://www.cardcontact.de)). All code
+here is adapted or written by the author.

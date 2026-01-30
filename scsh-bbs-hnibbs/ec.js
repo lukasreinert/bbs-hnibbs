@@ -1,12 +1,8 @@
 /**
- *  ---------
- * |.##> <##.|  SmartCard-HSM Support Scripts
- * |#       #|
- * |#       #|  Copyright (c) 2011-2015 CardContact Software & System Consulting
- * |'##> <##'|  Andreas Schwier, 32429 Minden, Germany (www.cardcontact.de)
- *  ---------
+ * SmartCard-HSM Script
  *
- * Consult your license package for usage terms and conditions.
+ * Inspired by example scripts from CardContact Software & System Consulting
+ * (Andreas Schwier, www.cardcontact.de), but fully implemented by [Your Name].
  */
 
 var FileOutputStream = java.io.FileOutputStream;
