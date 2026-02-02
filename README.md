@@ -1,6 +1,6 @@
 # BBS#-HNIBBS
 
-**BBS#-HNIBBS** is a Python prototype implementation for my bachelor thesis [Hardware-Assisted Batching for (Non-Interactive) Anonymous Tokens](https://lukasreinert.de/bachelor_thesis.pdf), designed to interact with a `SmartCard-HSM`.
+**BBS#-HNIBBS** is a Python prototype implementation for my bachelor thesis **"Hardware-Assisted Batching for (Non-Interactive) Anonymous Tokens"**, designed to interact with a `SmartCard-HSM`.
 
 This project was developed on **Arch Linux** (Kernel `6.18.6-arch1-1`) with **Python 3.14.2**.  
 It was tested using the **SmartCard-HSM 4K USB-Token**.
